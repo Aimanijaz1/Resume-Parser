@@ -1,0 +1,10 @@
+Python
+Machine Learning
+Deep Learning
+NumPy
+Pandas
+SQL
+TensorFlow
+Data Visualization
+Communication
+Team Collaboration
